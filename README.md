@@ -61,7 +61,7 @@ Representa os oponentes do grupo de heróis.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/sistema-rpg.git
+   git clone https://github.com/daianeaffonso/Projeto_OOP
 
 Abra o projeto no VS Code ou outro editor.
 
